@@ -13,4 +13,4 @@ This project looks at 60 observed rejection cases from 60 technology companies. 
 
 Created by **Olesia Botsieva** — Employer Brand · Recruitment Marketing · Research.
 
-LinkedIn: https://www.linkedin.com/in/olesruss/
+LinkedIn: https://www.linkedin.com/in/olesruss/ 
